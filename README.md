@@ -18,6 +18,8 @@ parallax portfolio [https://parallax-portfolio-kappa.vercel.app]
 
 Three Js portfolio [https://three-js-demo-beta.vercel.app]
 
+Swiggy clone [https://swiggy-clone-lyart-beta.vercel.app/]
+
 # Tiiny url
 
 WeatherAPP [https://wtcbp.tiiny.site]
